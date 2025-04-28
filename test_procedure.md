@@ -15,7 +15,7 @@ Size of Packages: 128/4096/9216
 ### cycle - distance
 - increase distance - start again
 - if now higher distance switch location
-- test all 3 times for jitter
+- test all 5 times for jitter
 - put in smallest size and smallest number 
 - start cycle number
 
@@ -25,8 +25,6 @@ Size of Packages: 128/4096/9216
 - put in lowest number
 
 ##### cycle - number
-- test all 
-- tell server 
 - test all 
 - tell server 
 - test all 
@@ -47,5 +45,5 @@ Size of Packages: 128/4096/9216
 
 
 Number of Files per Scenario: 
-Client: 27 Files 
-Server: 243 Files
+Client: 45 Files 
+Server: 162 Files
